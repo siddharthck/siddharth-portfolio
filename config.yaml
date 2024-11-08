@@ -138,7 +138,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://www.dropbox.com/scl/fi/vmqni06jyt30jos8jcvrc/Siddharth_Kulkarni_Resume.pdf?rlkey=zhmy82kl3k8fhq8lmk30dz7b2&st=ffl28hmi&dl=0"
+      url: docs/Siddharth_Kulkarni_Resume.pdf
       download: true
       newPage: false
     socialLinks:
