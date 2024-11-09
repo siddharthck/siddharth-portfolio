@@ -139,7 +139,7 @@ params:
       enable: true
       name: "Resume"
       url: docs/Siddharth_Kulkarni_Resume.pdf
-      download: true
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
