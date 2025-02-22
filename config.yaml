@@ -161,7 +161,7 @@ params:
     content: |-
       I am a graduate student at **San Jose State University**, specializing in Software Engineering with a focus on enterprise software solutions. With experience in full-stack development, machine learning, and performance monitoring, I am passionate about designing scalable and impactful software. I look forward to applying my skills in collaborative, innovative environments through software engineering internships.
 
-      I am currently working on an Event Storage System project. Which can be self hosted and with Serverless Cloud Compute, developers can benefit fast log-monitoring. 
+      I am currently working on an Event Storage System project [visit github](https://github.com/siddharthck/event-storage). Which can be self hosted and with Serverless Cloud Compute, developers can benefit fast log-monitoring. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
