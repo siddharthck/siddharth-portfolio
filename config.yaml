@@ -281,7 +281,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Distributed Event Storage and 
+      - title: Distributed Event Storage and Retreival System
         content: A micro-service based project which uses serverless compute to retrieve and search data from object storage like S3.
         image: /images/projects/ess.png
         # featured:
