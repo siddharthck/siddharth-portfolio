@@ -283,8 +283,8 @@ params:
       - title: Distributed Event Storage and 
         content: A micro-service based project which uses serverless compute to retrieve and search data from object storage like S3.
         image: /images/projects/ess.png
-        featured:
-          link: https://github.com/siddharthck/event-storage
+        # featured:
+          # link: https://github.com/siddharthck/event-storage
         badges:
           - "Golang"
           - "Microservives"
@@ -303,9 +303,9 @@ params:
           This project is an AI-powered Visionary Recommender System that utilizes Retrieval-Augmented Generation 
           (RAG) to analyze user-uploaded images, identify products (brand, model, defects), and deliver personalized recommendations.
         image: /images/projects/visionary-recommender-demo.png
-        featured:
+        # featured:
           # name: Demo V2
-          link: https://github.com/siddharthck/visionary-recommender
+          # link: https://github.com/siddharthck/visionary-recommender
         badges:
           - "Python"
           # - "RAG"
@@ -323,17 +323,17 @@ params:
           - Built a Flask-based web application that allows users to input images and receive relevant results, including similar
             images and associated weblinks, improving user interaction and search accuracy.
         image: /images/projects/cbir.png
-        featured:
+        # featured:
           # name: Demo
-          link: https://github.com/siddharthck/cbir
+          # link: https://github.com/siddharthck/cbir
         badges:
           - "Python"
           - "Tensorflow"
           - "VGG16"
           - "CNN"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          # - icon: fa fa-envelope
+            # url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
             url: https://github.com/siddharthck/cbir
           # - icon: fab fa-twitter
