@@ -130,7 +130,8 @@ params:
     intro: "Hi, my name is"
     title: "Siddharth."
     subtitle: "I write software."
-    content: "Enthusiastic Computer Science student with a strong foundation in software development and a passion for building innovative solutions. Eager to leverage my skills and collaborate on impactful projects as a software engineering intern."
+    content: |
+      Enthusiastic Computer Science student with a strong foundation in software development and a passion for building innovative solutions. Eager to leverage my skills and collaborate on impactful projects as a software engineering intern."
     image: /images/dp_LM.jpg
     bottomImage:
       enable: true
