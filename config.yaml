@@ -12,7 +12,8 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+pagination: 
+  pagersize: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -132,7 +133,7 @@ params:
     subtitle: "I write software."
     content: |
       Enthusiastic Computer Science student with a strong foundation in software development and a passion for building innovative solutions. Eager to leverage my skills and collaborate on impactful projects as a software engineering intern."
-    image: /images/dp_LM.jpg
+    image: /images/amazon_pic.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -179,6 +180,19 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "SDE Intern"
+        company: "Amazon"
+        companyUrl: "amazon.com"
+        date: "May 2025 - August 2025"
+        content: |
+          AWS OpenSearch Serverless team, Santa Clara, CA
+          - Built an end-to-end benchmarking framework for OpenSearch Serverless autoscaling, measuring ingestion and query
+          performance across search, time series, and vector search collections.
+          - Automated 100% of autoscaling scenarios, saving∼20 hours/week of manual benchmarking effort.
+          - Architected a CloudFormation stack with Step Functions, Lambda, S3, DynamoDB and EventBridge for nightly test runs.
+          - Implemented stabilization checks for baseline and surge loads, yielding more accurate benchmarking of autoscaling
+          performance.
+
       - job: "Software Engineer"
         company: "LogicMonitor SDE II"
         companyUrl: "https://www.logicmonitor.com"
